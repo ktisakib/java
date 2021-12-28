@@ -1,0 +1,175 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch DoWhileLoop",
+      "request": "launch",
+      "mainClass": "lab4.ex1.DoWhileLoop",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch WhileLoop",
+      "request": "launch",
+      "mainClass": "lab4.ex1.WhileLoop",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch ForLoop",
+      "request": "launch",
+      "mainClass": "lab4.ex1.ForLoop",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Switch",
+      "request": "launch",
+      "mainClass": "lab3.ex1.Switch",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch IfElseDemo",
+      "request": "launch",
+      "mainClass": "lab3.ex1.IfElseDemo",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch IfDemo",
+      "request": "launch",
+      "mainClass": "lab3.ex1.IfDemo",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Operators",
+      "request": "launch",
+      "mainClass": "lab2.ex1.Operators",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Fan",
+      "request": "launch",
+      "mainClass": "lab5.ex2.Fan",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Eployee",
+      "request": "launch",
+      "mainClass": "lab5.ex1.Eployee",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch TestEmployee",
+      "request": "launch",
+      "mainClass": "lab6.ex1.TestEmployee",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Test",
+      "request": "launch",
+      "mainClass": "lab7.ex2.Test",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "lab7.ex2.Main",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Test",
+      "request": "launch",
+      "mainClass": "lab7.ex1.Test",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "lab7.ex1.Main",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch StudentAdded",
+      "request": "launch",
+      "mainClass": "lab9.ex2.StudentAdded",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch EncapsTest",
+      "request": "launch",
+      "mainClass": "lab10.ex2.EncapsTest",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Outside",
+      "request": "launch",
+      "mainClass": "lab6.ex2.Outside",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch EncapsTest",
+      "request": "launch",
+      "mainClass": "lab10.ex1.EncapsTest",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch TestOverloading1",
+      "request": "launch",
+      "mainClass": "lab8.ex2.TestOverloading1",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch MethodOverloading",
+      "request": "launch",
+      "mainClass": "lab8.ex1.MethodOverloading",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch JiabulHoque",
+      "request": "launch",
+      "mainClass": "lab9.ex1.JiabulHoque",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java_72e8cc1b"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "java_72e8cc1b"
+    }
+  ]
+}
